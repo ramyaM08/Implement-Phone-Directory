@@ -1,5 +1,6 @@
 # Implement-Phone-Directory
-Introduction
+Introduction:
+
 The Phone Directory Implementation project is a comprehensive solution designed to manage contact information efficiently. In today's digital age, managing contacts seamlessly is crucial for both personal and professional use. This project provides a robust and user-friendly interface that allows users to handle their contacts with ease. Whether you're an individual looking to keep track of your personal contacts or a small business managing customer information, this phone directory application offers a practical and scalable solution.
 **Features**
 Add Contacts: Store new contact information including name, phone number, and email address.
