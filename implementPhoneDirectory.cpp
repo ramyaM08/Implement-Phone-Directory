@@ -1,3 +1,4 @@
+//Code using Hashing
 #include <iostream>
 using namespace std;
 
